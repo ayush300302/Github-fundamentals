@@ -1,0 +1,5 @@
+The average AQI represents the overall air quality condition across the last 10 days.
+The median AQI shows the central air quality value when data is arranged in order.
+Since mean and median are equal (87.5), the AQI data is balanced and not strongly affected by extreme pollution values.
+Most AQI values fall between 75–100, indicating Moderate Air Quality conditions.
+One higher value (102) slightly indicates increased pollution but does not heavily skew the dataset.
