@@ -7,7 +7,7 @@ This project performs basic data analysis using Python on weather and air qualit
 - Calculate Average Temperature
 - Calculate Median Temperature
 - Calculate Average Humidity
-- Calculate Median Humidity
+- Calculate Median Humidty
 - Calculate Average AQI
 - Calculate Median AQI
 
